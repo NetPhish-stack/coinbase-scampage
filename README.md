@@ -20,5 +20,5 @@
 
 ## Interested in Purchasing This Script?
 
-- **Personal Telegram:** [Your Telegram Handle]
-- **Telegram Channel:** [Your Telegram Channel Link]
+- **Telegram Channel:** [NetPhish Panels](https://t.me/netphishpanels)
+- **Personal Telegram Account:** [Contact the Coder](https://t.me/netphish)
