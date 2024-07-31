@@ -17,7 +17,7 @@
   - **Reworked Backend:** Refers to a modified backend system to facilitate the scam more efficiently.
 
 - **Additional Features:** Over 20 more unspecified features to enhance the scam's effectiveness.
-- 
+
 ## Interested in Purchasing This Script?
 
 - **Personal Telegram:** [Your Telegram Handle]
