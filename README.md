@@ -1,5 +1,7 @@
 # Coinbase Live Panel Scampage
 
+![dashboard](https://github.com/user-attachments/assets/cf64b52e-d7c8-410d-82f5-bf82f0f06f9e)
+
 **Coinbase Live 💰** is being advertised as a fraudulent phishing tool that scammers are using to trick people into giving up their personal and financial information. Here’s how the scam typically operates and what you should watch out for:
 
 ## Key Features of the Scam
